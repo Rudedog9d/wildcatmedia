@@ -5,6 +5,7 @@ NOTE: This site is still in it's early stages.
 
 Known 'Bugs':
 Short term:
+**Player doesnt properly render when placed on Digital Ocean Server**
 Logo is 3-6mb, needs shurnk. Alot.
 Nav bar is located a different distance from the left when scrolling down page. (minor, but annoying)
 Site should be converted to being rendered with JS. (Mostly for templating new pages)
