@@ -2269,6 +2269,21 @@
 				#header nav ul li.current > a {
 					font-weight: 900;
 				}
+        #header player {
+			letter-spacing: 0.075em;
+			position: absolute;
+			right: 2%;
+			top: 0.75em;
+		}
+            #header player h1 {
+                letter-spacing: 0.075em;
+                position: absolute;
+    			right: 200px;
+                width: 350px;
+                text-transform: uppercase;
+                top: 0.75em;
+    		}
+
 
 		#header.reveal {
 			-moz-animation: reveal-header 0.5s;
